@@ -1,0 +1,2 @@
+<?xml version="1.0" encoding="utf-8"?>
+<merger version="3"><dataSet config="output"><source path="C:\Users\BASHA PULLURU\.android\build-cache\bb26c34d5136ecd0e5c597cfb5a6a98b2476d674\output\assets"/></dataSet><dataSet config="main"><source path="F:\Android projects\SQLiteSample\app\src\main\assets"/><source path="F:\Android projects\SQLiteSample\app\build\generated\assets\shaders\debug"/></dataSet><dataSet config="debug"><source path="F:\Android projects\SQLiteSample\app\src\debug\assets"/></dataSet></merger>

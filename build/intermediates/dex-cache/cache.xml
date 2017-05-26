@@ -1,0 +1,32 @@
+<?xml version="1.0" encoding="utf-8"?>
+<items version="2" >
+
+    <item
+        is-multidex="true"
+        jar="F:\Android projects\SQLiteSample\app\build\intermediates\incremental-runtime-classes\debug\instant-run.jar"
+        jumboMode="true"
+        optimize="true"
+        revision="25.0.2"
+        sha1="caff8e51a24901cfc9cd7e1cf83d84f4cb0c103b">
+        <dex dex="F:\Android projects\SQLiteSample\app\build\intermediates\transforms\dex\debug\folders\1000\10000\instant-run_9edb594b67ea0cddd31d4acdad5e032675950905\classes.dex" />
+    </item>
+    <item
+        is-multidex="true"
+        jar="F:\Android projects\SQLiteSample\app\build\intermediates\incremental-classes\debug\instant-run-bootstrap.jar"
+        jumboMode="true"
+        optimize="true"
+        revision="25.0.2"
+        sha1="2974f92a9160d7db0caf924db97715b5d8ac40f7">
+        <dex dex="F:\Android projects\SQLiteSample\app\build\intermediates\transforms\dex\debug\folders\1000\10000\instant-run-bootstrap_1f36eb3dac55f0fd8fdeb05c7d1a1b127a289e72\classes.dex" />
+    </item>
+    <item
+        is-multidex="true"
+        jar="C:\Users\BASHA PULLURU\.android\build-cache\bb26c34d5136ecd0e5c597cfb5a6a98b2476d674\output\jars\classes.jar"
+        jumboMode="true"
+        optimize="true"
+        revision="25.0.2"
+        sha1="8f11f56e350eacabf2273f646d981356eea0ed77">
+        <dex dex="F:\Android projects\SQLiteSample\app\build\intermediates\transforms\dex\debug\folders\1000\10\classes_8238ed8a932a4d50a357b88b3c555aa97f475257\classes.dex" />
+    </item>
+
+</items>

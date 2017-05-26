@@ -1,0 +1,126 @@
+[
+    {
+        "merged": "F:\\Android projects\\SQLiteSample\\app\\build\\intermediates\\res\\merged\\debug\\layout\\abc_list_menu_item_layout.xml",
+        "source": "C:\\Users\\BASHA PULLURU\\.android\\build-cache\\bb26c34d5136ecd0e5c597cfb5a6a98b2476d674\\output\\res\\layout\\abc_list_menu_item_layout.xml"
+    },
+    {
+        "merged": "F:\\Android projects\\SQLiteSample\\app\\build\\intermediates\\res\\merged\\debug\\layout\\abc_action_bar_tabbar.xml",
+        "source": "C:\\Users\\BASHA PULLURU\\.android\\build-cache\\bb26c34d5136ecd0e5c597cfb5a6a98b2476d674\\output\\res\\layout\\abc_action_bar_tabbar.xml"
+    },
+    {
+        "merged": "F:\\Android projects\\SQLiteSample\\app\\build\\intermediates\\res\\merged\\debug\\layout\\abc_action_bar_decor_overlay.xml",
+        "source": "C:\\Users\\BASHA PULLURU\\.android\\build-cache\\bb26c34d5136ecd0e5c597cfb5a6a98b2476d674\\output\\res\\layout\\abc_action_bar_decor_overlay.xml"
+    },
+    {
+        "merged": "F:\\Android projects\\SQLiteSample\\app\\build\\intermediates\\res\\merged\\debug\\layout\\list_item_company.xml",
+        "source": "F:\\Android projects\\SQLiteSample\\app\\src\\main\\res\\layout\\list_item_company.xml"
+    },
+    {
+        "merged": "F:\\Android projects\\SQLiteSample\\app\\build\\intermediates\\res\\merged\\debug\\layout\\abc_action_bar_view_list_nav_layout.xml",
+        "source": "C:\\Users\\BASHA PULLURU\\.android\\build-cache\\bb26c34d5136ecd0e5c597cfb5a6a98b2476d674\\output\\res\\layout\\abc_action_bar_view_list_nav_layout.xml"
+    },
+    {
+        "merged": "F:\\Android projects\\SQLiteSample\\app\\build\\intermediates\\res\\merged\\debug\\layout\\abc_screen.xml",
+        "source": "C:\\Users\\BASHA PULLURU\\.android\\build-cache\\bb26c34d5136ecd0e5c597cfb5a6a98b2476d674\\output\\res\\layout\\abc_screen.xml"
+    },
+    {
+        "merged": "F:\\Android projects\\SQLiteSample\\app\\build\\intermediates\\res\\merged\\debug\\layout\\abc_action_mode_close_item.xml",
+        "source": "C:\\Users\\BASHA PULLURU\\.android\\build-cache\\bb26c34d5136ecd0e5c597cfb5a6a98b2476d674\\output\\res\\layout\\abc_action_mode_close_item.xml"
+    },
+    {
+        "merged": "F:\\Android projects\\SQLiteSample\\app\\build\\intermediates\\res\\merged\\debug\\layout\\abc_list_menu_item_icon.xml",
+        "source": "C:\\Users\\BASHA PULLURU\\.android\\build-cache\\bb26c34d5136ecd0e5c597cfb5a6a98b2476d674\\output\\res\\layout\\abc_list_menu_item_icon.xml"
+    },
+    {
+        "merged": "F:\\Android projects\\SQLiteSample\\app\\build\\intermediates\\res\\merged\\debug\\layout\\abc_action_bar_tab.xml",
+        "source": "C:\\Users\\BASHA PULLURU\\.android\\build-cache\\bb26c34d5136ecd0e5c597cfb5a6a98b2476d674\\output\\res\\layout\\abc_action_bar_tab.xml"
+    },
+    {
+        "merged": "F:\\Android projects\\SQLiteSample\\app\\build\\intermediates\\res\\merged\\debug\\layout\\abc_popup_menu_item_layout.xml",
+        "source": "C:\\Users\\BASHA PULLURU\\.android\\build-cache\\bb26c34d5136ecd0e5c597cfb5a6a98b2476d674\\output\\res\\layout\\abc_popup_menu_item_layout.xml"
+    },
+    {
+        "merged": "F:\\Android projects\\SQLiteSample\\app\\build\\intermediates\\res\\merged\\debug\\layout\\activity_add_company.xml",
+        "source": "F:\\Android projects\\SQLiteSample\\app\\src\\main\\res\\layout\\activity_add_company.xml"
+    },
+    {
+        "merged": "F:\\Android projects\\SQLiteSample\\app\\build\\intermediates\\res\\merged\\debug\\layout\\abc_action_bar_title_item.xml",
+        "source": "C:\\Users\\BASHA PULLURU\\.android\\build-cache\\bb26c34d5136ecd0e5c597cfb5a6a98b2476d674\\output\\res\\layout\\abc_action_bar_title_item.xml"
+    },
+    {
+        "merged": "F:\\Android projects\\SQLiteSample\\app\\build\\intermediates\\res\\merged\\debug\\layout\\abc_action_bar_decor_include.xml",
+        "source": "C:\\Users\\BASHA PULLURU\\.android\\build-cache\\bb26c34d5136ecd0e5c597cfb5a6a98b2476d674\\output\\res\\layout\\abc_action_bar_decor_include.xml"
+    },
+    {
+        "merged": "F:\\Android projects\\SQLiteSample\\app\\build\\intermediates\\res\\merged\\debug\\layout\\activity_add_employee.xml",
+        "source": "F:\\Android projects\\SQLiteSample\\app\\src\\main\\res\\layout\\activity_add_employee.xml"
+    },
+    {
+        "merged": "F:\\Android projects\\SQLiteSample\\app\\build\\intermediates\\res\\merged\\debug\\layout\\abc_action_mode_bar.xml",
+        "source": "C:\\Users\\BASHA PULLURU\\.android\\build-cache\\bb26c34d5136ecd0e5c597cfb5a6a98b2476d674\\output\\res\\layout\\abc_action_mode_bar.xml"
+    },
+    {
+        "merged": "F:\\Android projects\\SQLiteSample\\app\\build\\intermediates\\res\\merged\\debug\\layout\\activity_list_companies.xml",
+        "source": "F:\\Android projects\\SQLiteSample\\app\\src\\main\\res\\layout\\activity_list_companies.xml"
+    },
+    {
+        "merged": "F:\\Android projects\\SQLiteSample\\app\\build\\intermediates\\res\\merged\\debug\\layout\\abc_list_menu_item_checkbox.xml",
+        "source": "C:\\Users\\BASHA PULLURU\\.android\\build-cache\\bb26c34d5136ecd0e5c597cfb5a6a98b2476d674\\output\\res\\layout\\abc_list_menu_item_checkbox.xml"
+    },
+    {
+        "merged": "F:\\Android projects\\SQLiteSample\\app\\build\\intermediates\\res\\merged\\debug\\layout\\abc_search_dropdown_item_icons_2line.xml",
+        "source": "C:\\Users\\BASHA PULLURU\\.android\\build-cache\\bb26c34d5136ecd0e5c597cfb5a6a98b2476d674\\output\\res\\layout\\abc_search_dropdown_item_icons_2line.xml"
+    },
+    {
+        "merged": "F:\\Android projects\\SQLiteSample\\app\\build\\intermediates\\res\\merged\\debug\\layout\\abc_activity_chooser_view_list_item.xml",
+        "source": "C:\\Users\\BASHA PULLURU\\.android\\build-cache\\bb26c34d5136ecd0e5c597cfb5a6a98b2476d674\\output\\res\\layout\\abc_activity_chooser_view_list_item.xml"
+    },
+    {
+        "merged": "F:\\Android projects\\SQLiteSample\\app\\build\\intermediates\\res\\merged\\debug\\layout\\abc_action_bar_home.xml",
+        "source": "C:\\Users\\BASHA PULLURU\\.android\\build-cache\\bb26c34d5136ecd0e5c597cfb5a6a98b2476d674\\output\\res\\layout\\abc_action_bar_home.xml"
+    },
+    {
+        "merged": "F:\\Android projects\\SQLiteSample\\app\\build\\intermediates\\res\\merged\\debug\\layout\\abc_search_view.xml",
+        "source": "C:\\Users\\BASHA PULLURU\\.android\\build-cache\\bb26c34d5136ecd0e5c597cfb5a6a98b2476d674\\output\\res\\layout\\abc_search_view.xml"
+    },
+    {
+        "merged": "F:\\Android projects\\SQLiteSample\\app\\build\\intermediates\\res\\merged\\debug\\layout\\support_simple_spinner_dropdown_item.xml",
+        "source": "C:\\Users\\BASHA PULLURU\\.android\\build-cache\\bb26c34d5136ecd0e5c597cfb5a6a98b2476d674\\output\\res\\layout\\support_simple_spinner_dropdown_item.xml"
+    },
+    {
+        "merged": "F:\\Android projects\\SQLiteSample\\app\\build\\intermediates\\res\\merged\\debug\\layout\\abc_action_menu_layout.xml",
+        "source": "C:\\Users\\BASHA PULLURU\\.android\\build-cache\\bb26c34d5136ecd0e5c597cfb5a6a98b2476d674\\output\\res\\layout\\abc_action_menu_layout.xml"
+    },
+    {
+        "merged": "F:\\Android projects\\SQLiteSample\\app\\build\\intermediates\\res\\merged\\debug\\layout\\abc_activity_chooser_view.xml",
+        "source": "C:\\Users\\BASHA PULLURU\\.android\\build-cache\\bb26c34d5136ecd0e5c597cfb5a6a98b2476d674\\output\\res\\layout\\abc_activity_chooser_view.xml"
+    },
+    {
+        "merged": "F:\\Android projects\\SQLiteSample\\app\\build\\intermediates\\res\\merged\\debug\\layout\\activity_list_employees.xml",
+        "source": "F:\\Android projects\\SQLiteSample\\app\\src\\main\\res\\layout\\activity_list_employees.xml"
+    },
+    {
+        "merged": "F:\\Android projects\\SQLiteSample\\app\\build\\intermediates\\res\\merged\\debug\\layout\\abc_action_menu_item_layout.xml",
+        "source": "C:\\Users\\BASHA PULLURU\\.android\\build-cache\\bb26c34d5136ecd0e5c597cfb5a6a98b2476d674\\output\\res\\layout\\abc_action_menu_item_layout.xml"
+    },
+    {
+        "merged": "F:\\Android projects\\SQLiteSample\\app\\build\\intermediates\\res\\merged\\debug\\layout\\abc_activity_chooser_view_include.xml",
+        "source": "C:\\Users\\BASHA PULLURU\\.android\\build-cache\\bb26c34d5136ecd0e5c597cfb5a6a98b2476d674\\output\\res\\layout\\abc_activity_chooser_view_include.xml"
+    },
+    {
+        "merged": "F:\\Android projects\\SQLiteSample\\app\\build\\intermediates\\res\\merged\\debug\\layout\\spinner_item_company.xml",
+        "source": "F:\\Android projects\\SQLiteSample\\app\\src\\main\\res\\layout\\spinner_item_company.xml"
+    },
+    {
+        "merged": "F:\\Android projects\\SQLiteSample\\app\\build\\intermediates\\res\\merged\\debug\\layout\\abc_expanded_menu_layout.xml",
+        "source": "C:\\Users\\BASHA PULLURU\\.android\\build-cache\\bb26c34d5136ecd0e5c597cfb5a6a98b2476d674\\output\\res\\layout\\abc_expanded_menu_layout.xml"
+    },
+    {
+        "merged": "F:\\Android projects\\SQLiteSample\\app\\build\\intermediates\\res\\merged\\debug\\layout\\list_item_emloyee.xml",
+        "source": "F:\\Android projects\\SQLiteSample\\app\\src\\main\\res\\layout\\list_item_emloyee.xml"
+    },
+    {
+        "merged": "F:\\Android projects\\SQLiteSample\\app\\build\\intermediates\\res\\merged\\debug\\layout\\abc_list_menu_item_radio.xml",
+        "source": "C:\\Users\\BASHA PULLURU\\.android\\build-cache\\bb26c34d5136ecd0e5c597cfb5a6a98b2476d674\\output\\res\\layout\\abc_list_menu_item_radio.xml"
+    }
+]

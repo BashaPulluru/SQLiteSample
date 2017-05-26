@@ -1,0 +1,7 @@
+#Fri May 26 08:23:18 IST 2017
+base.0=F\:\\Android projects\\SQLiteSample\\app\\build\\intermediates\\transforms\\dex\\debug\\folders\\1000\\10\\classes_8238ed8a932a4d50a357b88b3c555aa97f475257
+renamed.1=classes2.dex
+renamed.0=classes.dex
+file.1=F\:\\Android projects\\SQLiteSample\\app\\build\\intermediates\\transforms\\dex\\debug\\folders\\1000\\10\\support-v4-18.0.0_4ce61b76591373dc31f3b56daca72d72a6fa8649\\classes.dex
+base.1=F\:\\Android projects\\SQLiteSample\\app\\build\\intermediates\\transforms\\dex\\debug\\folders\\1000\\10\\support-v4-18.0.0_4ce61b76591373dc31f3b56daca72d72a6fa8649
+file.0=F\:\\Android projects\\SQLiteSample\\app\\build\\intermediates\\transforms\\dex\\debug\\folders\\1000\\10\\classes_8238ed8a932a4d50a357b88b3c555aa97f475257\\classes.dex
